@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kranet - Site Launched!"
+title: "NetherMC - The Future!"
 date: 2021-05-08
 ---
 
